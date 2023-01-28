@@ -1,6 +1,6 @@
 # Max Bane
 
-Ask me about my motorcycle.
+Ask me about my motorcycle. Then check out my current project, [Frankenfit](https://github.com/maxbane/frankenfit).
 
 
 <!--
